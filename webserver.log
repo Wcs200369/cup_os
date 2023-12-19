@@ -1,0 +1,112 @@
+Time:Tue Dec 19 20:23:12 2023
+ INFO: request:z:1
+Time:Tue Dec 19 20:23:12 2023
+FORBIDDEN: Only simple GET operation supported:z
+Time:Tue Dec 19 20:23:12 2023
+FORBIDDEN: file extension type not supported:z
+Time:Tue Dec 19 20:23:12 2023
+NOT FOUND: failed to open file:
+Time:Tue Dec 19 20:23:12 2023
+ INFO: SEND::1
+Time:Tue Dec 19 20:23:12 2023
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: -1
+Connection:close
+Content-Type: (null)
+
+:1
+Time:Tue Dec 19 20:23:13 2023
+ INFO: request:z:2
+Time:Tue Dec 19 20:23:13 2023
+FORBIDDEN: Only simple GET operation supported:z
+Time:Tue Dec 19 20:23:13 2023
+FORBIDDEN: file extension type not supported:z
+Time:Tue Dec 19 20:23:13 2023
+NOT FOUND: failed to open file:
+Time:Tue Dec 19 20:23:13 2023
+ INFO: SEND::2
+Time:Tue Dec 19 20:23:13 2023
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: -1
+Connection:close
+Content-Type: (null)
+
+:2
+Time:Tue Dec 19 20:23:14 2023
+ INFO: request:z:3
+Time:Tue Dec 19 20:23:14 2023
+FORBIDDEN: Only simple GET operation supported:z
+Time:Tue Dec 19 20:23:14 2023
+FORBIDDEN: file extension type not supported:z
+Time:Tue Dec 19 20:23:14 2023
+NOT FOUND: failed to open file:
+Time:Tue Dec 19 20:23:14 2023
+ INFO: SEND::3
+Time:Tue Dec 19 20:23:14 2023
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: -1
+Connection:close
+Content-Type: (null)
+
+:3
+Time:Tue Dec 19 20:23:36 2023
+ INFO: request:z:4
+Time:Tue Dec 19 20:23:36 2023
+FORBIDDEN: Only simple GET operation supported:z
+Time:Tue Dec 19 20:23:36 2023
+FORBIDDEN: file extension type not supported:z
+Time:Tue Dec 19 20:23:36 2023
+NOT FOUND: failed to open file:
+Time:Tue Dec 19 20:23:36 2023
+ INFO: SEND::4
+Time:Tue Dec 19 20:23:36 2023
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: -1
+Connection:close
+Content-Type: (null)
+
+:4
+Time:Tue Dec 19 20:23:47 2023
+ INFO: request:z:5
+Time:Tue Dec 19 20:23:47 2023
+FORBIDDEN: Only simple GET operation supported:z
+Time:Tue Dec 19 20:23:47 2023
+FORBIDDEN: file extension type not supported:z
+Time:Tue Dec 19 20:23:47 2023
+NOT FOUND: failed to open file:
+Time:Tue Dec 19 20:23:47 2023
+ INFO: SEND::5
+Time:Tue Dec 19 20:23:47 2023
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: -1
+Connection:close
+Content-Type: (null)
+
+:5
+Time:Tue Dec 19 20:23:48 2023
+ INFO: request:z:6
+Time:Tue Dec 19 20:23:48 2023
+FORBIDDEN: Only simple GET operation supported:z
+Time:Tue Dec 19 20:24:33 2023
+ INFO: request:z:1
+Time:Tue Dec 19 20:24:33 2023
+FORBIDDEN: Only simple GET operation supported:z
+Time:Tue Dec 19 20:24:33 2023
+FORBIDDEN: file extension type not supported:z
+Time:Tue Dec 19 20:24:33 2023
+NOT FOUND: failed to open file:
+Time:Tue Dec 19 20:24:33 2023
+ INFO: SEND::1
+Time:Tue Dec 19 20:24:33 2023
+ INFO: Header:HTTP/1.1 200 OK
+Server: nweb/23.0
+Content-Length: -1
+Connection:close
+Content-Type: (null)
+
+:1
